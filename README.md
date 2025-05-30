@@ -6,16 +6,19 @@ A UI clone of the "Amazon India homepage" built using **pure HTML and CSS**.
 
 ## 🔗 Live Demo
 
- [View Live on GitHub Pages]
+ [View Live on GitHub Pages](https://prathamgambhir.github.io/Amazon_Homepage_Clone/)
 
 ---
 
 ##  Project Preview
 
+###  Home Page
 ![Amazon Home Page Clone Screenshot](images/homepage_ss.png)
 
+###  Product Slider & Product Boxes
 ![Product Slider & Product Boxes Screenshot](images/slider_ss.png)
 
+###  Footer Section
 ![Footer Screenshot](images/footer_ss.png)
 
 
@@ -51,14 +54,14 @@ A UI clone of the "Amazon India homepage" built using **pure HTML and CSS**.
 - **HTML** – For Structure of Website
 - **CSS** – For styling
 - **Font Awesome** – For icons (cart, flag etc.)
-- 🔧 No frameworks or libraries used
+- No frameworks or libraries used
 
 ---
 
 ##  Time Spent
 
  Built in just **1 day**  
- Horizontal scrolling sections were the most challenging but rewarding part!
+ Horizontal scrolling & Product Boxes section was the most challenging but rewarding part!
 
 ---
 
@@ -80,9 +83,9 @@ A UI clone of the "Amazon India homepage" built using **pure HTML and CSS**.
 
 ##  Author
 
-** Pratham Gambhir **  
+**Pratham Gambhir**  
 📎 [GitHub Profile](https://github.com/prathamgambhir)  
-✉️ Feel free to connect and give feedback!
+  Feel free to connect and give feedback!
 
 ---
 
