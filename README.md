@@ -10,13 +10,14 @@ A UI clone of the "Amazon India homepage" built using **pure HTML and CSS**.
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
-![Amazon Home Page Clone Screenshot] (images/homepage_ss.png) 
+![Amazon Home Page Clone Screenshot](images/homepage_ss.png)
 
-![Product Slider & Product Boxes Screenshot] (images/slider_ss.png)
+![Product Slider & Product Boxes Screenshot](images/slider_ss.png)
 
-![Footer Screenshot] (images/footer_ss.png)
+![Footer Screenshot](images/footer_ss.png)
+
 
 ---
 
@@ -36,7 +37,7 @@ A UI clone of the "Amazon India homepage" built using **pure HTML and CSS**.
 
 ---
 
-## 🚧 Limitations
+##  Limitations
 
 -  One **static hero/banner** image not changable
 -  No mobile responsiveness (works only on desktop)
@@ -54,19 +55,7 @@ A UI clone of the "Amazon India homepage" built using **pure HTML and CSS**.
 
 ---
 
-## 📁 Folder Structure
-
-amazon-homepage-clone/
-├── index.html
-├── style.css
-├── images/
-│ └──
-├── README.md
-
-
----
-
-## ⌛ Time Spent
+##  Time Spent
 
  Built in just **1 day**  
  Horizontal scrolling sections were the most challenging but rewarding part!
