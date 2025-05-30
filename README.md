@@ -6,7 +6,7 @@ A UI clone of the "Amazon India homepage" built using **pure HTML and CSS**.
 
 ## 🔗 Live Demo
 
- [View Live on GitHub Pages](https://prathamgambhir.github.io/Amazon_Homepage_Clone/)
+ [View Live on vercel](https://amazon-homepage-clone-mu.vercel.app/)
 
 ---
 
